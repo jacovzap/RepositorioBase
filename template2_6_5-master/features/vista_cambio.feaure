@@ -1,0 +1,9 @@
+Feature:
+    Como usuario 
+    Quiero ver la ventana de cambio cuando entro
+    Para poder realizar la operacion que me devuelva el cambio correcto
+
+Scenario:
+    When visito la pagina de cambio
+    Then deberia ver dos text box para introducir mis datos 
+    
